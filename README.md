@@ -1,1 +1,1 @@
-### HTML, CSS, Javascript, React, Python
+### HTML, CSS, Javascript, React, Python, Rust
