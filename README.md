@@ -1,1 +1,1 @@
-##### HTML, CSS, Javascript, React, Python and Swift
+##### HTML, CSS, Javascript, Typescript, React, Tailwind CSS, Python and Swift
